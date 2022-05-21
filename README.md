@@ -79,6 +79,13 @@
 
 ![](https://i.imgur.com/waxVImv.png)   
 
+### For more info :   
+<p>- You can open the <b><a href="https://github.com/HalemoGPA/SmartHome/blob/main/presentations/Smart%20Home.pptx">Presentation</a></b> for more detailed view of the project.</p>
+<p>- You can find collection of videos of the project <b><a href="https://github.com/HalemoGPA/SmartHome/tree/main/videos">here</a></b>.</p>
+<p>- You can find most of the images of the project <b><a href="https://github.com/HalemoGPA/SmartHome/tree/main/images">here</a></b>.</p>  
+<p>- You can find design of the project <b><a href="https://github.com/HalemoGPA/SmartHome/tree/main/design">here</a></b>.</p>
+<p>- The schematic files of proteus are <b><a href="https://github.com/HalemoGPA/SmartHome/tree/main/schematic%20circuit">here</a></b>. </p>
+
 <br><div align="center">
 
   <a href="https://www.buymeacoffee.com/HalemoGPA" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="HalemoGPA buy me a coffee" width="230"></a>
