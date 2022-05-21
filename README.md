@@ -1,5 +1,6 @@
-<img align="center" src="https://avatars.githubusercontent.com/u/73307941?s=96&v=4" alt="HalemoGPA">
-<a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv](https://www.youtube.com/watch?v=AjDNwPLduyU" target="_blank"  >
+
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/SmartHome" alt="HalemoGPA">  
+<a href="https://www.youtube.com/watch?v=AjDNwPLduyU" target="_blank"  >
 <div align="center">
 				<img src="https://github.com/HalemoGPA/SmartHome/blob/main/images/readme%20imgs/home-monitoring.png" width="230" alt="Smart Home" style="border-radius:30px;"></div><div align="center">
         <h1 style="color:#20C0E0" align="center">Smart Home</h1>
