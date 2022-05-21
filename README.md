@@ -5,7 +5,7 @@
         <h1 style="color:#20C0E0" align="center">Smart Home</h1>
         </div></a>
         
-![](https://i.imgur.com/waxVImv.png)  
+
 
 ## Smart Home supported with application 🔥
 2nd Semester CCSE Engineering Department -  Sensors Project ( Smart Home ) 💻  
@@ -39,13 +39,13 @@
 </div>     
 
 
-![](https://i.imgur.com/waxVImv.png) 
+<hr>
 
 <h2>Stage 2️⃣</h2> 
 
 <div align="center">
 	<p> 
-		<strong> The Gate <br></strong> As we follows with the second stage, we will follow the same steps. <br>
+		<strong> The Fire & Gas Safety <br></strong> As we follows with the second stage, we will follow the same steps. <br>
 		1️⃣ Components : • buzzer <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• flame sensor <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• MQ2 gas sensor <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -58,5 +58,32 @@
 </p>
 </div>   
 
-![](https://i.imgur.com/waxVImv.png) 
+<hr>
+
+
+<h2>Stage 3️⃣</h2> 
+<div align="center">
+	<p>
+		<strong> The Lighting <br></strong> Not too much to talk about, a light system depends on surrounding lighting. <br>
+		1️⃣ Components : • LDR sensor <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• arduino uno <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+• LEDS <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • fan (not from system -> bonus) 
+	</p><br>
+	<p><a href="https://github.com/HalemoGPA/SmartHome/blob/main/source/lighting.ino" alt="lighting"><b>2️⃣ Code : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><img align="center" src="https://github.com/HalemoGPA/SmartHome/blob/main/images/readme%20imgs/spotlight.png" alt="lighting" width="50"></a></p>
+	<p>
+  <a href="https://github.com/HalemoGPA/SmartHome/blob/main/schematic%20circuit/lighting%20schematic.JPG"> <b>3️⃣ Schematic : </b><img align="center" src="https://github.com/HalemoGPA/SmartHome/blob/main/images/readme%20imgs/process.png" alt="lighting" width="50"></a>
+</p>
+</div>
+
+![](https://i.imgur.com/waxVImv.png)   
+
+<br><div align="center">
+
+  <a href="https://www.buymeacoffee.com/HalemoGPA" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="HalemoGPA buy me a coffee" width="230"></a>
+
+
+</div>
+
+
 
